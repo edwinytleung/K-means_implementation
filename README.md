@@ -1,2 +1,2 @@
-# K-means_implementation
+# K-means implementation
 K-means Clustering implementation from scratch
